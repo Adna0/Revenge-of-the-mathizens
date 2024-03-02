@@ -1,0 +1,31 @@
+{
+    "button":
+    {
+        "font":
+        {
+            "name": "PressStart2P",
+            "size": 24
+        }
+   },
+   "#BackMainMenuButton1":
+   {
+        "font":
+        {
+            "size": 24
+        }
+   },
+   "#LaudButton":
+   {
+        "font":
+        {
+            "size": 16
+        }
+   },
+   "@ülesanneNupp":
+   {
+        "font":
+        {
+            "size": 16
+        }
+   }
+}
